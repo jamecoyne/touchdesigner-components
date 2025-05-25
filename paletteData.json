@@ -1,0 +1,28 @@
+{
+    "children": [
+        {
+            "id": "2.1",
+            "name": "pixelate.tox",
+            "path": "/pixelate.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.2",
+            "name": "paletteData.json",
+            "path": "/paletteData.json",
+            "type": "file"
+        },
+        {
+            "id": "2.3",
+            "name": "GaussianSplatting-1.0.tox",
+            "path": "/GaussianSplatting-1.0.tox",
+            "type": "file"
+        }
+    ],
+    "id": "2",
+    "localRoot": "app.userPaletteFolder",
+    "name": "My Components",
+    "palette": "My Components",
+    "path": "app.userPaletteFolder",
+    "type": "directory"
+}
