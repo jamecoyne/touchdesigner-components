@@ -2,20 +2,695 @@
     "children": [
         {
             "id": "2.1",
+            "name": "effect_controller.tox",
+            "path": "/effect_controller.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.2",
+            "name": "jitterbug.4.toe",
+            "path": "/jitterbug.4.toe",
+            "type": "file"
+        },
+        {
+            "id": "2.3",
+            "name": "GLSL_invert.tox",
+            "path": "/GLSL_invert.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.4",
+            "name": "jitterbug.toe",
+            "path": "/jitterbug.toe",
+            "type": "file"
+        },
+        {
+            "id": "2.5",
+            "name": "TOP_add.tox",
+            "path": "/TOP_add.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.6",
+            "name": "circle_top.tox",
+            "path": "/circle_top.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.7",
+            "name": ".DS_Store",
+            "path": "/.DS_Store",
+            "type": "file"
+        },
+        {
+            "id": "2.8",
+            "name": "TOP_subtract.tox",
+            "path": "/TOP_subtract.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.9",
+            "name": "launchpad_xl_controller.tox",
+            "path": "/launchpad_xl_controller.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.10",
+            "name": "jcomp.tox",
+            "path": "/jcomp.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.11",
+            "name": "TOP_divide.tox",
+            "path": "/TOP_divide.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.12",
             "name": "pixelate.tox",
             "path": "/pixelate.tox",
             "type": "file"
         },
         {
-            "id": "2.2",
+            "id": "2.13",
             "name": "paletteData.json",
             "path": "/paletteData.json",
             "type": "file"
         },
         {
-            "id": "2.3",
+            "id": "2.14",
+            "name": "glsl_grid.tox",
+            "path": "/glsl_grid.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.15",
             "name": "GaussianSplatting-1.0.tox",
             "path": "/GaussianSplatting-1.0.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.16",
+            "name": "oscope.tox",
+            "path": "/oscope.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.17",
+            "name": "TOP_multiply.tox",
+            "path": "/TOP_multiply.tox",
+            "type": "file"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.18.1",
+                    "name": "pyramid_ramp.tox",
+                    "path": "/generators/pyramid_ramp.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.18",
+            "name": "generators",
+            "path": "/generators",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.19.1",
+                    "name": ".DS_Store",
+                    "path": "/.git/.DS_Store",
+                    "type": "file"
+                },
+                {
+                    "id": "2.19.2",
+                    "name": "config",
+                    "path": "/.git/config",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "id": "2.19.3.1.1",
+                                    "name": "fd8165ea73708ccb80a204306939be4cb9fbad",
+                                    "path": "/.git/objects/9d/fd8165ea73708ccb80a204306939be4cb9fbad",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.19.3.1",
+                            "name": "9d",
+                            "path": "/.git/objects/9d",
+                            "type": "directory"
+                        },
+                        {
+                            "id": "2.19.3.2",
+                            "name": ".DS_Store",
+                            "path": "/.git/objects/.DS_Store",
+                            "type": "file"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.19.3.3.1",
+                                    "name": "f8444ceb54c1df06e8306b2b79fad979e4645d",
+                                    "path": "/.git/objects/bc/f8444ceb54c1df06e8306b2b79fad979e4645d",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.19.3.3",
+                            "name": "bc",
+                            "path": "/.git/objects/bc",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.19.3.4.1",
+                                    "name": "ab56ffbbff0eb6b05a04d42703b9b6b566344f",
+                                    "path": "/.git/objects/fc/ab56ffbbff0eb6b05a04d42703b9b6b566344f",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.19.3.4",
+                            "name": "fc",
+                            "path": "/.git/objects/fc",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.19.3.5.1",
+                                    "name": "d5078ccc5806522809ee232713748deda21155",
+                                    "path": "/.git/objects/fe/d5078ccc5806522809ee232713748deda21155",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.19.3.5",
+                            "name": "fe",
+                            "path": "/.git/objects/fe",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [],
+                            "id": "2.19.3.6",
+                            "name": "pack",
+                            "path": "/.git/objects/pack",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.19.3.7.1",
+                                    "name": "62bceb5b3a6d38a3e9f950a81b6e12a33aa8a8",
+                                    "path": "/.git/objects/28/62bceb5b3a6d38a3e9f950a81b6e12a33aa8a8",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.19.3.7",
+                            "name": "28",
+                            "path": "/.git/objects/28",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.19.3.8.1",
+                                    "name": "a169c02f963059c109c178cfac9319c5204a46",
+                                    "path": "/.git/objects/9f/a169c02f963059c109c178cfac9319c5204a46",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.19.3.8",
+                            "name": "9f",
+                            "path": "/.git/objects/9f",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [],
+                            "id": "2.19.3.9",
+                            "name": "info",
+                            "path": "/.git/objects/info",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.19.3.10.1",
+                                    "name": "bbc9623f756e1432e0054b0e7a18f84514652a",
+                                    "path": "/.git/objects/53/bbc9623f756e1432e0054b0e7a18f84514652a",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.19.3.10",
+                            "name": "53",
+                            "path": "/.git/objects/53",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.19.3.11.1",
+                                    "name": "d3550df526caa58108e56efe14a95b73bd0a1f",
+                                    "path": "/.git/objects/97/d3550df526caa58108e56efe14a95b73bd0a1f",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.19.3.11",
+                            "name": "97",
+                            "path": "/.git/objects/97",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.19.3.12.1",
+                                    "name": "c12640bbd8af26f7ca31b1f5a9944a4ce23695",
+                                    "path": "/.git/objects/b8/c12640bbd8af26f7ca31b1f5a9944a4ce23695",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.19.3.12",
+                            "name": "b8",
+                            "path": "/.git/objects/b8",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.19.3.13.1",
+                                    "name": "82335bc5f3fe79776012496d926af071b0cbca",
+                                    "path": "/.git/objects/ce/82335bc5f3fe79776012496d926af071b0cbca",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.19.3.13",
+                            "name": "ce",
+                            "path": "/.git/objects/ce",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.19.3.14.1",
+                                    "name": "43a31d78a9349019ac328304851758d4637c0d",
+                                    "path": "/.git/objects/46/43a31d78a9349019ac328304851758d4637c0d",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.19.3.14",
+                            "name": "46",
+                            "path": "/.git/objects/46",
+                            "type": "directory"
+                        }
+                    ],
+                    "id": "2.19.3",
+                    "name": "objects",
+                    "path": "/.git/objects",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.19.4",
+                    "name": "HEAD",
+                    "path": "/.git/HEAD",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.19.5.1",
+                            "name": "exclude",
+                            "path": "/.git/info/exclude",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.19.5",
+                    "name": "info",
+                    "path": "/.git/info",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.19.6.1",
+                            "name": ".DS_Store",
+                            "path": "/.git/logs/.DS_Store",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.19.6.2",
+                            "name": "HEAD",
+                            "path": "/.git/logs/HEAD",
+                            "type": "file"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "id": "2.19.6.3.1.1",
+                                            "name": "main",
+                                            "path": "/.git/logs/refs/heads/main",
+                                            "type": "file"
+                                        }
+                                    ],
+                                    "id": "2.19.6.3.1",
+                                    "name": "heads",
+                                    "path": "/.git/logs/refs/heads",
+                                    "type": "directory"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "children": [
+                                                {
+                                                    "id": "2.19.6.3.2.1.1",
+                                                    "name": "main",
+                                                    "path": "/.git/logs/refs/remotes/origin/main",
+                                                    "type": "file"
+                                                }
+                                            ],
+                                            "id": "2.19.6.3.2.1",
+                                            "name": "origin",
+                                            "path": "/.git/logs/refs/remotes/origin",
+                                            "type": "directory"
+                                        }
+                                    ],
+                                    "id": "2.19.6.3.2",
+                                    "name": "remotes",
+                                    "path": "/.git/logs/refs/remotes",
+                                    "type": "directory"
+                                }
+                            ],
+                            "id": "2.19.6.3",
+                            "name": "refs",
+                            "path": "/.git/logs/refs",
+                            "type": "directory"
+                        }
+                    ],
+                    "id": "2.19.6",
+                    "name": "logs",
+                    "path": "/.git/logs",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.19.7",
+                    "name": "description",
+                    "path": "/.git/description",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.19.8.1",
+                            "name": "commit-msg.sample",
+                            "path": "/.git/hooks/commit-msg.sample",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.19.8.2",
+                            "name": "pre-rebase.sample",
+                            "path": "/.git/hooks/pre-rebase.sample",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.19.8.3",
+                            "name": "pre-commit.sample",
+                            "path": "/.git/hooks/pre-commit.sample",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.19.8.4",
+                            "name": "applypatch-msg.sample",
+                            "path": "/.git/hooks/applypatch-msg.sample",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.19.8.5",
+                            "name": "fsmonitor-watchman.sample",
+                            "path": "/.git/hooks/fsmonitor-watchman.sample",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.19.8.6",
+                            "name": "pre-receive.sample",
+                            "path": "/.git/hooks/pre-receive.sample",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.19.8.7",
+                            "name": "prepare-commit-msg.sample",
+                            "path": "/.git/hooks/prepare-commit-msg.sample",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.19.8.8",
+                            "name": "post-update.sample",
+                            "path": "/.git/hooks/post-update.sample",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.19.8.9",
+                            "name": "pre-merge-commit.sample",
+                            "path": "/.git/hooks/pre-merge-commit.sample",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.19.8.10",
+                            "name": "pre-applypatch.sample",
+                            "path": "/.git/hooks/pre-applypatch.sample",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.19.8.11",
+                            "name": "pre-push.sample",
+                            "path": "/.git/hooks/pre-push.sample",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.19.8.12",
+                            "name": "update.sample",
+                            "path": "/.git/hooks/update.sample",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.19.8.13",
+                            "name": "push-to-checkout.sample",
+                            "path": "/.git/hooks/push-to-checkout.sample",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.19.8",
+                    "name": "hooks",
+                    "path": "/.git/hooks",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.19.9.1",
+                            "name": ".DS_Store",
+                            "path": "/.git/refs/.DS_Store",
+                            "type": "file"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.19.9.2.1",
+                                    "name": "main",
+                                    "path": "/.git/refs/heads/main",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.19.9.2",
+                            "name": "heads",
+                            "path": "/.git/refs/heads",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [],
+                            "id": "2.19.9.3",
+                            "name": "tags",
+                            "path": "/.git/refs/tags",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "id": "2.19.9.4.1.1",
+                                            "name": "main",
+                                            "path": "/.git/refs/remotes/origin/main",
+                                            "type": "file"
+                                        }
+                                    ],
+                                    "id": "2.19.9.4.1",
+                                    "name": "origin",
+                                    "path": "/.git/refs/remotes/origin",
+                                    "type": "directory"
+                                }
+                            ],
+                            "id": "2.19.9.4",
+                            "name": "remotes",
+                            "path": "/.git/refs/remotes",
+                            "type": "directory"
+                        }
+                    ],
+                    "id": "2.19.9",
+                    "name": "refs",
+                    "path": "/.git/refs",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.19.10",
+                    "name": "index",
+                    "path": "/.git/index",
+                    "type": "file"
+                },
+                {
+                    "id": "2.19.11",
+                    "name": "COMMIT_EDITMSG",
+                    "path": "/.git/COMMIT_EDITMSG",
+                    "type": "file"
+                }
+            ],
+            "id": "2.19",
+            "name": ".git",
+            "path": "/.git",
+            "type": "directory"
+        },
+        {
+            "id": "2.20",
+            "name": "beat_controller.tox",
+            "path": "/beat_controller.tox",
+            "type": "file"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.21.1",
+                    "name": "jitterbug.1.toe",
+                    "path": "/Backup/jitterbug.1.toe",
+                    "type": "file"
+                },
+                {
+                    "id": "2.21.2",
+                    "name": "jitterbug.2.toe",
+                    "path": "/Backup/jitterbug.2.toe",
+                    "type": "file"
+                },
+                {
+                    "id": "2.21.3",
+                    "name": "jitterbug.3.toe",
+                    "path": "/Backup/jitterbug.3.toe",
+                    "type": "file"
+                }
+            ],
+            "id": "2.21",
+            "name": "Backup",
+            "path": "/Backup",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.22.1",
+                    "name": "trails.tox",
+                    "path": "/effects/trails.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.22.2",
+                    "name": "oscillator.tox",
+                    "path": "/effects/oscillator.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.22.3",
+                    "name": "kilidascope.tox",
+                    "path": "/effects/kilidascope.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.22.4",
+                    "name": "cool_dither_1.tox",
+                    "path": "/effects/cool_dither_1.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.22.5",
+                    "name": "terrain.tox",
+                    "path": "/effects/terrain.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.22.6",
+                    "name": "tile.tox",
+                    "path": "/effects/tile.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.22.7",
+                    "name": "micro_pixelate.tox",
+                    "path": "/effects/micro_pixelate.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.22.8",
+                    "name": "displace_map.tox",
+                    "path": "/effects/displace_map.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.22.9",
+                    "name": "motion_blur.tox",
+                    "path": "/effects/motion_blur.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.22.10",
+                    "name": "ascii.tox",
+                    "path": "/effects/ascii.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.22.11",
+                    "name": "mod.tox",
+                    "path": "/effects/mod.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.22.12",
+                    "name": "CRT_effect.tox",
+                    "path": "/effects/CRT_effect.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.22",
+            "name": "effects",
+            "path": "/effects",
+            "type": "directory"
+        },
+        {
+            "id": "2.23",
+            "name": "anaomaly_detected.tox",
+            "path": "/anaomaly_detected.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.24",
+            "name": "mixer.tox",
+            "path": "/mixer.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.25",
+            "name": "strobe.tox",
+            "path": "/strobe.tox",
             "type": "file"
         }
     ],
