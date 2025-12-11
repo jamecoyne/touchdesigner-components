@@ -2,116 +2,58 @@
     "children": [
         {
             "id": "2.1",
-            "name": "effect_controller.tox",
-            "path": "/effect_controller.tox",
-            "type": "file"
-        },
-        {
-            "id": "2.2",
-            "name": "jitterbug.4.toe",
-            "path": "/jitterbug.4.toe",
-            "type": "file"
-        },
-        {
-            "id": "2.3",
-            "name": "GLSL_invert.tox",
-            "path": "/GLSL_invert.tox",
-            "type": "file"
-        },
-        {
-            "id": "2.4",
-            "name": "jitterbug.toe",
-            "path": "/jitterbug.toe",
-            "type": "file"
-        },
-        {
-            "id": "2.5",
-            "name": "TOP_add.tox",
-            "path": "/TOP_add.tox",
-            "type": "file"
-        },
-        {
-            "id": "2.6",
-            "name": "circle_top.tox",
-            "path": "/circle_top.tox",
-            "type": "file"
-        },
-        {
-            "id": "2.7",
             "name": ".DS_Store",
             "path": "/.DS_Store",
             "type": "file"
         },
         {
-            "id": "2.8",
-            "name": "TOP_subtract.tox",
-            "path": "/TOP_subtract.tox",
-            "type": "file"
-        },
-        {
-            "id": "2.9",
-            "name": "launchpad_xl_controller.tox",
-            "path": "/launchpad_xl_controller.tox",
-            "type": "file"
-        },
-        {
-            "id": "2.10",
-            "name": "jcomp.tox",
-            "path": "/jcomp.tox",
-            "type": "file"
-        },
-        {
-            "id": "2.11",
-            "name": "TOP_divide.tox",
-            "path": "/TOP_divide.tox",
-            "type": "file"
-        },
-        {
-            "id": "2.12",
-            "name": "pixelate.tox",
-            "path": "/pixelate.tox",
-            "type": "file"
-        },
-        {
-            "id": "2.13",
-            "name": "paletteData.json",
-            "path": "/paletteData.json",
-            "type": "file"
-        },
-        {
-            "id": "2.14",
-            "name": "glsl_grid.tox",
-            "path": "/glsl_grid.tox",
-            "type": "file"
-        },
-        {
-            "id": "2.15",
-            "name": "GaussianSplatting-1.0.tox",
-            "path": "/GaussianSplatting-1.0.tox",
-            "type": "file"
-        },
-        {
-            "id": "2.16",
-            "name": "oscope.tox",
-            "path": "/oscope.tox",
-            "type": "file"
-        },
-        {
-            "id": "2.17",
-            "name": "TOP_multiply.tox",
-            "path": "/TOP_multiply.tox",
-            "type": "file"
+            "children": [
+                {
+                    "id": "2.2.1",
+                    "name": "RayTK-0.46.tox",
+                    "path": "/libraries/RayTK-0.46.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.2",
+            "name": "libraries",
+            "path": "/libraries",
+            "type": "directory"
         },
         {
             "children": [
                 {
-                    "id": "2.18.1",
+                    "id": "2.3.1",
                     "name": "pyramid_ramp.tox",
                     "path": "/generators/pyramid_ramp.tox",
                     "type": "file"
+                },
+                {
+                    "id": "2.3.2",
+                    "name": "glsl_grid.tox",
+                    "path": "/generators/glsl_grid.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.3.3",
+                    "name": "GaussianSplatting-1.0.tox",
+                    "path": "/generators/GaussianSplatting-1.0.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.3.4",
+                    "name": "oscope.tox",
+                    "path": "/generators/oscope.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.3.5",
+                    "name": "anaomaly_detected.tox",
+                    "path": "/generators/anaomaly_detected.tox",
+                    "type": "file"
                 }
             ],
-            "id": "2.18",
+            "id": "2.3",
             "name": "generators",
             "path": "/generators",
             "type": "directory"
@@ -119,13 +61,13 @@
         {
             "children": [
                 {
-                    "id": "2.19.1",
+                    "id": "2.4.1",
                     "name": ".DS_Store",
                     "path": "/.git/.DS_Store",
                     "type": "file"
                 },
                 {
-                    "id": "2.19.2",
+                    "id": "2.4.2",
                     "name": "config",
                     "path": "/.git/config",
                     "type": "file"
@@ -135,19 +77,61 @@
                         {
                             "children": [
                                 {
-                                    "id": "2.19.3.1.1",
+                                    "id": "2.4.3.1.1",
+                                    "name": "10ec685ab62933170323b2dbb53538b9b52199",
+                                    "path": "/.git/objects/59/10ec685ab62933170323b2dbb53538b9b52199",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.1",
+                            "name": "59",
+                            "path": "/.git/objects/59",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.2.1",
+                                    "name": "2a91ca0ac67588f104b5bd853ed22f6d5fc04f",
+                                    "path": "/.git/objects/9b/2a91ca0ac67588f104b5bd853ed22f6d5fc04f",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.2",
+                            "name": "9b",
+                            "path": "/.git/objects/9b",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.3.1",
+                                    "name": "15e4aaa64ba1cd21bb489182a0cb8c33e431f7",
+                                    "path": "/.git/objects/04/15e4aaa64ba1cd21bb489182a0cb8c33e431f7",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.3",
+                            "name": "04",
+                            "path": "/.git/objects/04",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.4.1",
                                     "name": "fd8165ea73708ccb80a204306939be4cb9fbad",
                                     "path": "/.git/objects/9d/fd8165ea73708ccb80a204306939be4cb9fbad",
                                     "type": "file"
                                 }
                             ],
-                            "id": "2.19.3.1",
+                            "id": "2.4.3.4",
                             "name": "9d",
                             "path": "/.git/objects/9d",
                             "type": "directory"
                         },
                         {
-                            "id": "2.19.3.2",
+                            "id": "2.4.3.5",
                             "name": ".DS_Store",
                             "path": "/.git/objects/.DS_Store",
                             "type": "file"
@@ -155,13 +139,41 @@
                         {
                             "children": [
                                 {
-                                    "id": "2.19.3.3.1",
+                                    "id": "2.4.3.6.1",
+                                    "name": "fc9e5d38afc3a5c775190b21f5cf2d88449549",
+                                    "path": "/.git/objects/b4/fc9e5d38afc3a5c775190b21f5cf2d88449549",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.6",
+                            "name": "b4",
+                            "path": "/.git/objects/b4",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.7.1",
+                                    "name": "a7264b3925e7ea8ff907fdcc0a16c030e9620e",
+                                    "path": "/.git/objects/d1/a7264b3925e7ea8ff907fdcc0a16c030e9620e",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.7",
+                            "name": "d1",
+                            "path": "/.git/objects/d1",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.8.1",
                                     "name": "f8444ceb54c1df06e8306b2b79fad979e4645d",
                                     "path": "/.git/objects/bc/f8444ceb54c1df06e8306b2b79fad979e4645d",
                                     "type": "file"
                                 }
                             ],
-                            "id": "2.19.3.3",
+                            "id": "2.4.3.8",
                             "name": "bc",
                             "path": "/.git/objects/bc",
                             "type": "directory"
@@ -169,13 +181,27 @@
                         {
                             "children": [
                                 {
-                                    "id": "2.19.3.4.1",
+                                    "id": "2.4.3.9.1",
+                                    "name": "6dba69ce8f88ade6b5f964d79896d68ecc9737",
+                                    "path": "/.git/objects/c0/6dba69ce8f88ade6b5f964d79896d68ecc9737",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.9",
+                            "name": "c0",
+                            "path": "/.git/objects/c0",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.10.1",
                                     "name": "ab56ffbbff0eb6b05a04d42703b9b6b566344f",
                                     "path": "/.git/objects/fc/ab56ffbbff0eb6b05a04d42703b9b6b566344f",
                                     "type": "file"
                                 }
                             ],
-                            "id": "2.19.3.4",
+                            "id": "2.4.3.10",
                             "name": "fc",
                             "path": "/.git/objects/fc",
                             "type": "directory"
@@ -183,20 +209,62 @@
                         {
                             "children": [
                                 {
-                                    "id": "2.19.3.5.1",
+                                    "id": "2.4.3.11.1",
+                                    "name": "a93fe1044ca04fece039f3439c80ba5973a13c",
+                                    "path": "/.git/objects/f2/a93fe1044ca04fece039f3439c80ba5973a13c",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.11",
+                            "name": "f2",
+                            "path": "/.git/objects/f2",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.12.1",
+                                    "name": "c8557dce980ccc422632cf7aa61ad95f2ef19f",
+                                    "path": "/.git/objects/f5/c8557dce980ccc422632cf7aa61ad95f2ef19f",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.12",
+                            "name": "f5",
+                            "path": "/.git/objects/f5",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.13.1",
+                                    "name": "5e5c9bb95d511c5e1505e089ad13bd2454d19e",
+                                    "path": "/.git/objects/cf/5e5c9bb95d511c5e1505e089ad13bd2454d19e",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.13",
+                            "name": "cf",
+                            "path": "/.git/objects/cf",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.14.1",
                                     "name": "d5078ccc5806522809ee232713748deda21155",
                                     "path": "/.git/objects/fe/d5078ccc5806522809ee232713748deda21155",
                                     "type": "file"
                                 }
                             ],
-                            "id": "2.19.3.5",
+                            "id": "2.4.3.14",
                             "name": "fe",
                             "path": "/.git/objects/fe",
                             "type": "directory"
                         },
                         {
                             "children": [],
-                            "id": "2.19.3.6",
+                            "id": "2.4.3.15",
                             "name": "pack",
                             "path": "/.git/objects/pack",
                             "type": "directory"
@@ -204,13 +272,69 @@
                         {
                             "children": [
                                 {
-                                    "id": "2.19.3.7.1",
+                                    "id": "2.4.3.16.1",
+                                    "name": "351d79687893ca517099da86653aa9028429eb",
+                                    "path": "/.git/objects/7d/351d79687893ca517099da86653aa9028429eb",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.16",
+                            "name": "7d",
+                            "path": "/.git/objects/7d",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.17.1",
+                                    "name": "dcc20ff1d887a75d2d32d4afcb65069e23b405",
+                                    "path": "/.git/objects/42/dcc20ff1d887a75d2d32d4afcb65069e23b405",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.17",
+                            "name": "42",
+                            "path": "/.git/objects/42",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.18.1",
+                                    "name": "345164c8e6b146ecc314667b7011de19f78288",
+                                    "path": "/.git/objects/87/345164c8e6b146ecc314667b7011de19f78288",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.18",
+                            "name": "87",
+                            "path": "/.git/objects/87",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.19.1",
+                                    "name": "acba0a53b43c5c07379049733a74ac34c63571",
+                                    "path": "/.git/objects/74/acba0a53b43c5c07379049733a74ac34c63571",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.19",
+                            "name": "74",
+                            "path": "/.git/objects/74",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.20.1",
                                     "name": "62bceb5b3a6d38a3e9f950a81b6e12a33aa8a8",
                                     "path": "/.git/objects/28/62bceb5b3a6d38a3e9f950a81b6e12a33aa8a8",
                                     "type": "file"
                                 }
                             ],
-                            "id": "2.19.3.7",
+                            "id": "2.4.3.20",
                             "name": "28",
                             "path": "/.git/objects/28",
                             "type": "directory"
@@ -218,20 +342,76 @@
                         {
                             "children": [
                                 {
-                                    "id": "2.19.3.8.1",
+                                    "id": "2.4.3.21.1",
+                                    "name": "65caa14fca17606a8dc6bf099eaf6f830392eb",
+                                    "path": "/.git/objects/8a/65caa14fca17606a8dc6bf099eaf6f830392eb",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.21",
+                            "name": "8a",
+                            "path": "/.git/objects/8a",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.22.1",
+                                    "name": "cec0019eedafcf78d03e79c3bc451bc8dec4ab",
+                                    "path": "/.git/objects/7e/cec0019eedafcf78d03e79c3bc451bc8dec4ab",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.22",
+                            "name": "7e",
+                            "path": "/.git/objects/7e",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.23.1",
                                     "name": "a169c02f963059c109c178cfac9319c5204a46",
                                     "path": "/.git/objects/9f/a169c02f963059c109c178cfac9319c5204a46",
                                     "type": "file"
                                 }
                             ],
-                            "id": "2.19.3.8",
+                            "id": "2.4.3.23",
                             "name": "9f",
                             "path": "/.git/objects/9f",
                             "type": "directory"
                         },
                         {
+                            "children": [
+                                {
+                                    "id": "2.4.3.24.1",
+                                    "name": "95579c75aee11a5e2915c059beea0ddcc64ba4",
+                                    "path": "/.git/objects/6b/95579c75aee11a5e2915c059beea0ddcc64ba4",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.24",
+                            "name": "6b",
+                            "path": "/.git/objects/6b",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.25.1",
+                                    "name": "d55817cdb14e20642f749b6c92ec8995f7ebc9",
+                                    "path": "/.git/objects/00/d55817cdb14e20642f749b6c92ec8995f7ebc9",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.25",
+                            "name": "00",
+                            "path": "/.git/objects/00",
+                            "type": "directory"
+                        },
+                        {
                             "children": [],
-                            "id": "2.19.3.9",
+                            "id": "2.4.3.26",
                             "name": "info",
                             "path": "/.git/objects/info",
                             "type": "directory"
@@ -239,13 +419,27 @@
                         {
                             "children": [
                                 {
-                                    "id": "2.19.3.10.1",
+                                    "id": "2.4.3.27.1",
+                                    "name": "f05a172df97079013ed05a84b0846edce84c70",
+                                    "path": "/.git/objects/65/f05a172df97079013ed05a84b0846edce84c70",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.27",
+                            "name": "65",
+                            "path": "/.git/objects/65",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.28.1",
                                     "name": "bbc9623f756e1432e0054b0e7a18f84514652a",
                                     "path": "/.git/objects/53/bbc9623f756e1432e0054b0e7a18f84514652a",
                                     "type": "file"
                                 }
                             ],
-                            "id": "2.19.3.10",
+                            "id": "2.4.3.28",
                             "name": "53",
                             "path": "/.git/objects/53",
                             "type": "directory"
@@ -253,13 +447,41 @@
                         {
                             "children": [
                                 {
-                                    "id": "2.19.3.11.1",
+                                    "id": "2.4.3.29.1",
+                                    "name": "8b30f71000d0f61d66ee3b9779335e30c75df1",
+                                    "path": "/.git/objects/30/8b30f71000d0f61d66ee3b9779335e30c75df1",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.29",
+                            "name": "30",
+                            "path": "/.git/objects/30",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.30.1",
+                                    "name": "1712a1e3b8ee2b10723911190527eb1735d669",
+                                    "path": "/.git/objects/5b/1712a1e3b8ee2b10723911190527eb1735d669",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.30",
+                            "name": "5b",
+                            "path": "/.git/objects/5b",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.31.1",
                                     "name": "d3550df526caa58108e56efe14a95b73bd0a1f",
                                     "path": "/.git/objects/97/d3550df526caa58108e56efe14a95b73bd0a1f",
                                     "type": "file"
                                 }
                             ],
-                            "id": "2.19.3.11",
+                            "id": "2.4.3.31",
                             "name": "97",
                             "path": "/.git/objects/97",
                             "type": "directory"
@@ -267,13 +489,47 @@
                         {
                             "children": [
                                 {
-                                    "id": "2.19.3.12.1",
+                                    "id": "2.4.3.32.1",
+                                    "name": "2b2997114409221163da8fa0b051b3959821c0",
+                                    "path": "/.git/objects/90/2b2997114409221163da8fa0b051b3959821c0",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.32",
+                            "name": "90",
+                            "path": "/.git/objects/90",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.33.1",
+                                    "name": "5528a6e51ac9ff5f15c13c4d3805ef83e318b8",
+                                    "path": "/.git/objects/d4/5528a6e51ac9ff5f15c13c4d3805ef83e318b8",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.4.3.33.2",
+                                    "name": "01c3356bdf74a8896b924e57917928fd2560c9",
+                                    "path": "/.git/objects/d4/01c3356bdf74a8896b924e57917928fd2560c9",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.33",
+                            "name": "d4",
+                            "path": "/.git/objects/d4",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.34.1",
                                     "name": "c12640bbd8af26f7ca31b1f5a9944a4ce23695",
                                     "path": "/.git/objects/b8/c12640bbd8af26f7ca31b1f5a9944a4ce23695",
                                     "type": "file"
                                 }
                             ],
-                            "id": "2.19.3.12",
+                            "id": "2.4.3.34",
                             "name": "b8",
                             "path": "/.git/objects/b8",
                             "type": "directory"
@@ -281,13 +537,125 @@
                         {
                             "children": [
                                 {
-                                    "id": "2.19.3.13.1",
+                                    "id": "2.4.3.35.1",
+                                    "name": "557ada54c70bbcbc2ff2bfd713904fd5683196",
+                                    "path": "/.git/objects/b1/557ada54c70bbcbc2ff2bfd713904fd5683196",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.35",
+                            "name": "b1",
+                            "path": "/.git/objects/b1",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.36.1",
+                                    "name": "a24aa07e83457664f9a5e28ecb73b29f4fc672",
+                                    "path": "/.git/objects/dd/a24aa07e83457664f9a5e28ecb73b29f4fc672",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.36",
+                            "name": "dd",
+                            "path": "/.git/objects/dd",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.37.1",
+                                    "name": "431685bd88cc33c259d895d8f632971e059d0d",
+                                    "path": "/.git/objects/af/431685bd88cc33c259d895d8f632971e059d0d",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.37",
+                            "name": "af",
+                            "path": "/.git/objects/af",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.38.1",
+                                    "name": "9ac3bbfbbb23cd86dc4ee43d04792dcf1f695b",
+                                    "path": "/.git/objects/b9/9ac3bbfbbb23cd86dc4ee43d04792dcf1f695b",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.38",
+                            "name": "b9",
+                            "path": "/.git/objects/b9",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.39.1",
+                                    "name": "cf3446e5e8ffbc16c57785c97c9022240d2ab7",
+                                    "path": "/.git/objects/c4/cf3446e5e8ffbc16c57785c97c9022240d2ab7",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.39",
+                            "name": "c4",
+                            "path": "/.git/objects/c4",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.40.1",
+                                    "name": "d56d54f47c8920284f473a75f03c4ce88ef7bb",
+                                    "path": "/.git/objects/e6/d56d54f47c8920284f473a75f03c4ce88ef7bb",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.40",
+                            "name": "e6",
+                            "path": "/.git/objects/e6",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.41.1",
+                                    "name": "aed9267676d4e7dfc8efa5985d199953bf059f",
+                                    "path": "/.git/objects/f9/aed9267676d4e7dfc8efa5985d199953bf059f",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.41",
+                            "name": "f9",
+                            "path": "/.git/objects/f9",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.42.1",
+                                    "name": "79833b280640073e0b4184f75be5381f0d96fb",
+                                    "path": "/.git/objects/f8/79833b280640073e0b4184f75be5381f0d96fb",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.42",
+                            "name": "f8",
+                            "path": "/.git/objects/f8",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.43.1",
                                     "name": "82335bc5f3fe79776012496d926af071b0cbca",
                                     "path": "/.git/objects/ce/82335bc5f3fe79776012496d926af071b0cbca",
                                     "type": "file"
                                 }
                             ],
-                            "id": "2.19.3.13",
+                            "id": "2.4.3.43",
                             "name": "ce",
                             "path": "/.git/objects/ce",
                             "type": "directory"
@@ -295,25 +663,123 @@
                         {
                             "children": [
                                 {
-                                    "id": "2.19.3.14.1",
+                                    "id": "2.4.3.44.1",
                                     "name": "43a31d78a9349019ac328304851758d4637c0d",
                                     "path": "/.git/objects/46/43a31d78a9349019ac328304851758d4637c0d",
                                     "type": "file"
                                 }
                             ],
-                            "id": "2.19.3.14",
+                            "id": "2.4.3.44",
                             "name": "46",
                             "path": "/.git/objects/46",
                             "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.45.1",
+                                    "name": "d6e0ed1b76e40a630f3dc22fe7c8ecfd3dd746",
+                                    "path": "/.git/objects/83/d6e0ed1b76e40a630f3dc22fe7c8ecfd3dd746",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.45",
+                            "name": "83",
+                            "path": "/.git/objects/83",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.46.1",
+                                    "name": "49fb006d33e5f128dfba8be82c72c50f7ef3cc",
+                                    "path": "/.git/objects/70/49fb006d33e5f128dfba8be82c72c50f7ef3cc",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.46",
+                            "name": "70",
+                            "path": "/.git/objects/70",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.47.1",
+                                    "name": "c2c68c198024e90572c723c1e5b79cdba78531",
+                                    "path": "/.git/objects/4a/c2c68c198024e90572c723c1e5b79cdba78531",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.47",
+                            "name": "4a",
+                            "path": "/.git/objects/4a",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.48.1",
+                                    "name": "7ea45216291e54f9bead5c8a13a23cf4062c0c",
+                                    "path": "/.git/objects/4f/7ea45216291e54f9bead5c8a13a23cf4062c0c",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.48",
+                            "name": "4f",
+                            "path": "/.git/objects/4f",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.49.1",
+                                    "name": "68d6aa18c51dd29194589b6e7c6f930817fe2c",
+                                    "path": "/.git/objects/82/68d6aa18c51dd29194589b6e7c6f930817fe2c",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.49",
+                            "name": "82",
+                            "path": "/.git/objects/82",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.50.1",
+                                    "name": "47eb88b49616ab5030d780c3c211c21b250e79",
+                                    "path": "/.git/objects/2b/47eb88b49616ab5030d780c3c211c21b250e79",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.50",
+                            "name": "2b",
+                            "path": "/.git/objects/2b",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.4.3.51.1",
+                                    "name": "032d97c9d057a1a510712d33db0a5b55b8bf07",
+                                    "path": "/.git/objects/8b/032d97c9d057a1a510712d33db0a5b55b8bf07",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.4.3.51",
+                            "name": "8b",
+                            "path": "/.git/objects/8b",
+                            "type": "directory"
                         }
                     ],
-                    "id": "2.19.3",
+                    "id": "2.4.3",
                     "name": "objects",
                     "path": "/.git/objects",
                     "type": "directory"
                 },
                 {
-                    "id": "2.19.4",
+                    "id": "2.4.4",
                     "name": "HEAD",
                     "path": "/.git/HEAD",
                     "type": "file"
@@ -321,13 +787,13 @@
                 {
                     "children": [
                         {
-                            "id": "2.19.5.1",
+                            "id": "2.4.5.1",
                             "name": "exclude",
                             "path": "/.git/info/exclude",
                             "type": "file"
                         }
                     ],
-                    "id": "2.19.5",
+                    "id": "2.4.5",
                     "name": "info",
                     "path": "/.git/info",
                     "type": "directory"
@@ -335,13 +801,13 @@
                 {
                     "children": [
                         {
-                            "id": "2.19.6.1",
+                            "id": "2.4.6.1",
                             "name": ".DS_Store",
                             "path": "/.git/logs/.DS_Store",
                             "type": "file"
                         },
                         {
-                            "id": "2.19.6.2",
+                            "id": "2.4.6.2",
                             "name": "HEAD",
                             "path": "/.git/logs/HEAD",
                             "type": "file"
@@ -351,13 +817,13 @@
                                 {
                                     "children": [
                                         {
-                                            "id": "2.19.6.3.1.1",
+                                            "id": "2.4.6.3.1.1",
                                             "name": "main",
                                             "path": "/.git/logs/refs/heads/main",
                                             "type": "file"
                                         }
                                     ],
-                                    "id": "2.19.6.3.1",
+                                    "id": "2.4.6.3.1",
                                     "name": "heads",
                                     "path": "/.git/logs/refs/heads",
                                     "type": "directory"
@@ -367,37 +833,37 @@
                                         {
                                             "children": [
                                                 {
-                                                    "id": "2.19.6.3.2.1.1",
+                                                    "id": "2.4.6.3.2.1.1",
                                                     "name": "main",
                                                     "path": "/.git/logs/refs/remotes/origin/main",
                                                     "type": "file"
                                                 }
                                             ],
-                                            "id": "2.19.6.3.2.1",
+                                            "id": "2.4.6.3.2.1",
                                             "name": "origin",
                                             "path": "/.git/logs/refs/remotes/origin",
                                             "type": "directory"
                                         }
                                     ],
-                                    "id": "2.19.6.3.2",
+                                    "id": "2.4.6.3.2",
                                     "name": "remotes",
                                     "path": "/.git/logs/refs/remotes",
                                     "type": "directory"
                                 }
                             ],
-                            "id": "2.19.6.3",
+                            "id": "2.4.6.3",
                             "name": "refs",
                             "path": "/.git/logs/refs",
                             "type": "directory"
                         }
                     ],
-                    "id": "2.19.6",
+                    "id": "2.4.6",
                     "name": "logs",
                     "path": "/.git/logs",
                     "type": "directory"
                 },
                 {
-                    "id": "2.19.7",
+                    "id": "2.4.7",
                     "name": "description",
                     "path": "/.git/description",
                     "type": "file"
@@ -405,85 +871,85 @@
                 {
                     "children": [
                         {
-                            "id": "2.19.8.1",
+                            "id": "2.4.8.1",
                             "name": "commit-msg.sample",
                             "path": "/.git/hooks/commit-msg.sample",
                             "type": "file"
                         },
                         {
-                            "id": "2.19.8.2",
+                            "id": "2.4.8.2",
                             "name": "pre-rebase.sample",
                             "path": "/.git/hooks/pre-rebase.sample",
                             "type": "file"
                         },
                         {
-                            "id": "2.19.8.3",
+                            "id": "2.4.8.3",
                             "name": "pre-commit.sample",
                             "path": "/.git/hooks/pre-commit.sample",
                             "type": "file"
                         },
                         {
-                            "id": "2.19.8.4",
+                            "id": "2.4.8.4",
                             "name": "applypatch-msg.sample",
                             "path": "/.git/hooks/applypatch-msg.sample",
                             "type": "file"
                         },
                         {
-                            "id": "2.19.8.5",
+                            "id": "2.4.8.5",
                             "name": "fsmonitor-watchman.sample",
                             "path": "/.git/hooks/fsmonitor-watchman.sample",
                             "type": "file"
                         },
                         {
-                            "id": "2.19.8.6",
+                            "id": "2.4.8.6",
                             "name": "pre-receive.sample",
                             "path": "/.git/hooks/pre-receive.sample",
                             "type": "file"
                         },
                         {
-                            "id": "2.19.8.7",
+                            "id": "2.4.8.7",
                             "name": "prepare-commit-msg.sample",
                             "path": "/.git/hooks/prepare-commit-msg.sample",
                             "type": "file"
                         },
                         {
-                            "id": "2.19.8.8",
+                            "id": "2.4.8.8",
                             "name": "post-update.sample",
                             "path": "/.git/hooks/post-update.sample",
                             "type": "file"
                         },
                         {
-                            "id": "2.19.8.9",
+                            "id": "2.4.8.9",
                             "name": "pre-merge-commit.sample",
                             "path": "/.git/hooks/pre-merge-commit.sample",
                             "type": "file"
                         },
                         {
-                            "id": "2.19.8.10",
+                            "id": "2.4.8.10",
                             "name": "pre-applypatch.sample",
                             "path": "/.git/hooks/pre-applypatch.sample",
                             "type": "file"
                         },
                         {
-                            "id": "2.19.8.11",
+                            "id": "2.4.8.11",
                             "name": "pre-push.sample",
                             "path": "/.git/hooks/pre-push.sample",
                             "type": "file"
                         },
                         {
-                            "id": "2.19.8.12",
+                            "id": "2.4.8.12",
                             "name": "update.sample",
                             "path": "/.git/hooks/update.sample",
                             "type": "file"
                         },
                         {
-                            "id": "2.19.8.13",
+                            "id": "2.4.8.13",
                             "name": "push-to-checkout.sample",
                             "path": "/.git/hooks/push-to-checkout.sample",
                             "type": "file"
                         }
                     ],
-                    "id": "2.19.8",
+                    "id": "2.4.8",
                     "name": "hooks",
                     "path": "/.git/hooks",
                     "type": "directory"
@@ -491,7 +957,7 @@
                 {
                     "children": [
                         {
-                            "id": "2.19.9.1",
+                            "id": "2.4.9.1",
                             "name": ".DS_Store",
                             "path": "/.git/refs/.DS_Store",
                             "type": "file"
@@ -499,20 +965,20 @@
                         {
                             "children": [
                                 {
-                                    "id": "2.19.9.2.1",
+                                    "id": "2.4.9.2.1",
                                     "name": "main",
                                     "path": "/.git/refs/heads/main",
                                     "type": "file"
                                 }
                             ],
-                            "id": "2.19.9.2",
+                            "id": "2.4.9.2",
                             "name": "heads",
                             "path": "/.git/refs/heads",
                             "type": "directory"
                         },
                         {
                             "children": [],
-                            "id": "2.19.9.3",
+                            "id": "2.4.9.3",
                             "name": "tags",
                             "path": "/.git/refs/tags",
                             "type": "directory"
@@ -522,176 +988,244 @@
                                 {
                                     "children": [
                                         {
-                                            "id": "2.19.9.4.1.1",
+                                            "id": "2.4.9.4.1.1",
                                             "name": "main",
                                             "path": "/.git/refs/remotes/origin/main",
                                             "type": "file"
                                         }
                                     ],
-                                    "id": "2.19.9.4.1",
+                                    "id": "2.4.9.4.1",
                                     "name": "origin",
                                     "path": "/.git/refs/remotes/origin",
                                     "type": "directory"
                                 }
                             ],
-                            "id": "2.19.9.4",
+                            "id": "2.4.9.4",
                             "name": "remotes",
                             "path": "/.git/refs/remotes",
                             "type": "directory"
                         }
                     ],
-                    "id": "2.19.9",
+                    "id": "2.4.9",
                     "name": "refs",
                     "path": "/.git/refs",
                     "type": "directory"
                 },
                 {
-                    "id": "2.19.10",
+                    "id": "2.4.10",
                     "name": "index",
                     "path": "/.git/index",
                     "type": "file"
                 },
                 {
-                    "id": "2.19.11",
+                    "id": "2.4.11",
                     "name": "COMMIT_EDITMSG",
                     "path": "/.git/COMMIT_EDITMSG",
                     "type": "file"
                 }
             ],
-            "id": "2.19",
+            "id": "2.4",
             "name": ".git",
             "path": "/.git",
             "type": "directory"
         },
         {
-            "id": "2.20",
-            "name": "beat_controller.tox",
-            "path": "/beat_controller.tox",
-            "type": "file"
-        },
-        {
             "children": [
                 {
-                    "id": "2.21.1",
-                    "name": "jitterbug.1.toe",
-                    "path": "/Backup/jitterbug.1.toe",
-                    "type": "file"
-                },
-                {
-                    "id": "2.21.2",
-                    "name": "jitterbug.2.toe",
-                    "path": "/Backup/jitterbug.2.toe",
-                    "type": "file"
-                },
-                {
-                    "id": "2.21.3",
-                    "name": "jitterbug.3.toe",
-                    "path": "/Backup/jitterbug.3.toe",
-                    "type": "file"
-                }
-            ],
-            "id": "2.21",
-            "name": "Backup",
-            "path": "/Backup",
-            "type": "directory"
-        },
-        {
-            "children": [
-                {
-                    "id": "2.22.1",
+                    "id": "2.5.1",
                     "name": "trails.tox",
                     "path": "/effects/trails.tox",
                     "type": "file"
                 },
                 {
-                    "id": "2.22.2",
+                    "id": "2.5.2",
+                    "name": "dither.tox",
+                    "path": "/effects/dither.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.5.3",
+                    "name": ".DS_Store",
+                    "path": "/effects/.DS_Store",
+                    "type": "file"
+                },
+                {
+                    "id": "2.5.4",
                     "name": "oscillator.tox",
                     "path": "/effects/oscillator.tox",
                     "type": "file"
                 },
                 {
-                    "id": "2.22.3",
+                    "id": "2.5.5",
                     "name": "kilidascope.tox",
                     "path": "/effects/kilidascope.tox",
                     "type": "file"
                 },
                 {
-                    "id": "2.22.4",
+                    "id": "2.5.6",
                     "name": "cool_dither_1.tox",
                     "path": "/effects/cool_dither_1.tox",
                     "type": "file"
                 },
                 {
-                    "id": "2.22.5",
+                    "id": "2.5.7",
                     "name": "terrain.tox",
                     "path": "/effects/terrain.tox",
                     "type": "file"
                 },
                 {
-                    "id": "2.22.6",
+                    "id": "2.5.8",
                     "name": "tile.tox",
                     "path": "/effects/tile.tox",
                     "type": "file"
                 },
                 {
-                    "id": "2.22.7",
+                    "id": "2.5.9",
                     "name": "micro_pixelate.tox",
                     "path": "/effects/micro_pixelate.tox",
                     "type": "file"
                 },
                 {
-                    "id": "2.22.8",
+                    "id": "2.5.10",
                     "name": "displace_map.tox",
                     "path": "/effects/displace_map.tox",
                     "type": "file"
                 },
                 {
-                    "id": "2.22.9",
+                    "id": "2.5.11",
                     "name": "motion_blur.tox",
                     "path": "/effects/motion_blur.tox",
                     "type": "file"
                 },
                 {
-                    "id": "2.22.10",
+                    "id": "2.5.12",
                     "name": "ascii.tox",
                     "path": "/effects/ascii.tox",
                     "type": "file"
                 },
                 {
-                    "id": "2.22.11",
+                    "id": "2.5.13",
                     "name": "mod.tox",
                     "path": "/effects/mod.tox",
                     "type": "file"
                 },
                 {
-                    "id": "2.22.12",
+                    "id": "2.5.14",
                     "name": "CRT_effect.tox",
                     "path": "/effects/CRT_effect.tox",
                     "type": "file"
+                },
+                {
+                    "id": "2.5.15",
+                    "name": "strobe.tox",
+                    "path": "/effects/strobe.tox",
+                    "type": "file"
                 }
             ],
-            "id": "2.22",
+            "id": "2.5",
             "name": "effects",
             "path": "/effects",
             "type": "directory"
         },
         {
-            "id": "2.23",
-            "name": "anaomaly_detected.tox",
-            "path": "/anaomaly_detected.tox",
-            "type": "file"
+            "children": [
+                {
+                    "id": "2.6.1",
+                    "name": "effect_controller.tox",
+                    "path": "/control/effect_controller.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.6.2",
+                    "name": "launchpad_xl_controller.tox",
+                    "path": "/control/launchpad_xl_controller.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.6.3",
+                    "name": "beat_controller.tox",
+                    "path": "/control/beat_controller.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.6.4",
+                    "name": "mixer.tox",
+                    "path": "/control/mixer.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.6",
+            "name": "control",
+            "path": "/control",
+            "type": "directory"
         },
         {
-            "id": "2.24",
-            "name": "mixer.tox",
-            "path": "/mixer.tox",
-            "type": "file"
-        },
-        {
-            "id": "2.25",
-            "name": "strobe.tox",
-            "path": "/strobe.tox",
-            "type": "file"
+            "children": [
+                {
+                    "id": "2.7.1",
+                    "name": "jitterbug.4.toe",
+                    "path": "/deprecated/jitterbug.4.toe",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.2",
+                    "name": "GLSL_invert.tox",
+                    "path": "/deprecated/GLSL_invert.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.3",
+                    "name": "jitterbug.toe",
+                    "path": "/deprecated/jitterbug.toe",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.4",
+                    "name": "TOP_add.tox",
+                    "path": "/deprecated/TOP_add.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.5",
+                    "name": "circle_top.tox",
+                    "path": "/deprecated/circle_top.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.6",
+                    "name": "TOP_subtract.tox",
+                    "path": "/deprecated/TOP_subtract.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.7",
+                    "name": "jcomp.tox",
+                    "path": "/deprecated/jcomp.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.8",
+                    "name": "TOP_divide.tox",
+                    "path": "/deprecated/TOP_divide.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.9",
+                    "name": "pixelate.tox",
+                    "path": "/deprecated/pixelate.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.10",
+                    "name": "TOP_multiply.tox",
+                    "path": "/deprecated/TOP_multiply.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.7",
+            "name": "deprecated",
+            "path": "/deprecated",
+            "type": "directory"
         }
     ],
     "id": "2",
